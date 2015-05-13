@@ -1,0 +1,9 @@
+.ground {
+  position: absolute;
+  width: 3840px;
+  height: 256px;
+  top: 384px;
+  left: -128px;
+  background: url(images/map.png);
+  z-index: -1;
+}
