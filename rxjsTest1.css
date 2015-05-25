@@ -7,3 +7,20 @@
   background: url(images/map.png);
   z-index: -1;
 }
+
+.pinkie {
+  position: absolute;
+  width: 140px;
+  height: 126px;
+  top: 276px;
+  left: 64px;
+  background: url(images/pie-dash.gif);
+}
+
+.coin {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  left: -512px;
+  background: url(images/coin.gif);
+}
